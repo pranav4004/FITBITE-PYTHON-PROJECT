@@ -40,7 +40,7 @@ FitBite is a fitness application built with Flask that helps users monitor their
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/fitbite.git
+git clone https://github.com/pranav4004/FITBITE-PYTHON-PROJECT
 cd fitbite
 ```
 
